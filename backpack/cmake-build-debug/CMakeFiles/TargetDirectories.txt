@@ -1,0 +1,3 @@
+C:/Users/raste/CLionProjects/backpack/cmake-build-debug/CMakeFiles/backpack.dir
+C:/Users/raste/CLionProjects/backpack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/raste/CLionProjects/backpack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
